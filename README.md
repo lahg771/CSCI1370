@@ -1,6 +1,8 @@
 # CSCI1370
 Computer Science I - coursework
 
+As a first year computer science student, I had previously no experience with C++. I hope this will document my growth across the various projects in the course.
+
 
 Instructions per course:
 
@@ -24,15 +26,15 @@ LAB 4 - Task:
 Write a program to play the Hi-Lo guessing game! In particular, your program should:
 
  Generate a random number from 1 to 100.
- 
+
  Ask the user to guess the number
- 
+
  If the user is right, the game ends
- 
+
  If the user's guess is too high or too low, the program informs the user of that fact and asks for another guess.
- 
+
  This repeats until the user gets the number correct
- 
+
 Further, your program should keep track of how many guesses the user takes to get the number right.  An appropriate comment should then be issued to the user.  For example: 
 
         11 or more "What a terrible score!..." 
